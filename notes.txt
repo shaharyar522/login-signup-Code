@@ -1,0 +1,19 @@
+
+
+
+
+
+//step 1
+main ny signup/registration  form bana hain 
+us kay bad phr agr us log log in page par bahjan after complete  signup form
+
+
+step2
+
+agar login kartway havay agar  agar wo check kary ga ka 
+emil ua pasword agar signup table main hainto us ko redirced kary index.php ua koe behi file
+hn 
+
+
+us kay bad wo data jo log in kay wakat dala hnga wo log in table main insert han jain ga 
+
