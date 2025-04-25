@@ -5,15 +5,24 @@
 
 //step 1
 main ny signup/registration  form bana hain 
-us kay bad phr agr us log log in page par bahjan after complete  signup form
+us kay bad phr agr us log in page par bahjan after complete  signup form
 
 
 step2
 
-agar login kartway havay agar  agar wo check kary ga ka 
+agar login kartway havay agar  agar wo check kary ga ka  signup kay table main 
 emil ua pasword agar signup table main hainto us ko redirced kary index.php ua koe behi file
 hn 
 
 
-us kay bad wo data jo log in kay wakat dala hnga wo log in table main insert han jain ga 
+//note that 
 
+hum sirf signup wla table banyen guy  or 
+
+or us main hi main stus ko 0 1 kary guy ua email ko veifuy uay null kray 
+guy or uay logic building hum  login.php ki file main kary guy 
+
+
+// note 
+status = 0 hnta hain inactivate hnga by admin 
+status = 1 karay guy tu to activated hn jian ga 
